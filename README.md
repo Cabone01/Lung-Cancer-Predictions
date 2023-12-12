@@ -52,7 +52,7 @@ I was able to complete the main objective with a Multinomial Logistic Regression
 Follow the link below for more information or a slightly deeper dive into the data. In there I used Tableau to provide visuals to better display the effect on some risk factors and damages to the body.   
 
 ## Tableau
-[Lung Cancer Study](https://public.tableau.com/app/profile/taco5815/viz/LungCancerStudy/Sheet8?publish=yes)
+[Lung Cancer Study](https://public.tableau.com/app/profile/taco5815/viz/LungCancerStudy/ExaminingLungCancer)
 
 ## Source
 [Kaggle](https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link)
